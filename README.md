@@ -20,7 +20,7 @@ Available as an in-app-purchase:
 - Generate color palettes using images from your photo library
 - Export color palette files for popular design apps such as Photoshop, ProCreate, and more
 
-### Contact:
+### Contact and Support:
 
 Questions or suggestions? Email SwatchMe@rrraj.nyc
 
