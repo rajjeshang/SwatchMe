@@ -2,6 +2,29 @@
 
 ## Colors Palettes for Designers
 
+### How to use:
+
+Use your phone's camera to capture images and create a color palette.
+
+1. Frame it: Get closer or use the pinch gesture to zoom in
+2. Snap it: Press the shutter button to save the image and palette to your library
+3. Share it: You can share the palette to friends and colleagues, refine it, and export it as a PNG, or SVG file
+
+Pro Features:
+
+Available as an in-app-purchase:
+
+- You can refine individual colors of a palette
+- Use the Color Dropper feature to fully customize your own palette
+- Capture up to 12 colors simulatniously using the camera (you can always add more using the Color Dropper feature)
+- Generate color palettes using images from your photo library
+- Export color palette files for popular design apps such as Photoshop, ProCreate, and more
+
+### Contact:
+
+Questions or suggestions? Email SwatchMe@rrraj.nyc
+
+ 
 ### Terms and Conditions:
 Terms and Conditions
 
