@@ -10,9 +10,7 @@ Use your phone's camera to capture images and create a color palette.
 2. Snap it: Press the shutter button to save the image and palette to your library
 3. Share it: You can share the palette to friends and colleagues, refine it, and export it as a PNG, or SVG file
 
-Pro Features:
-
-Available as an in-app-purchase:
+With a one time in-app-purchase you can:
 
 - You can refine individual colors of a palette
 - Use the Color Dropper feature to fully customize your own palette
