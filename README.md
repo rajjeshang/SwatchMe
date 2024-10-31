@@ -1,6 +1,6 @@
 # SwatchMe
 
-## Colors Palettes for Designers
+## Colors for Designers
 
 ### How to use:
 
